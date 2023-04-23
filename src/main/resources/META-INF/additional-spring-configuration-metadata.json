@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "datasource.hikari.data-source-properties.prepStmtCacheSize",
+      "type": "java.lang.String",
+      "description": "Description for datasource.hikari.data-source-properties.prepStmtCacheSize."
+    }
+  ]
+}

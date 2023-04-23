@@ -1,0 +1,6 @@
+com.nice.ligue
+com.nice.ligue.controller
+com.nice.ligue.dto
+com.nice.ligue.entities
+com.nice.ligue.repository
+com.nice.ligue.service
